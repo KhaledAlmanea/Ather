@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096065134295",
+    "firebase_url": "https://ather-bcff4.firebaseio.com",
+    "project_id": "ather-bcff4",
+    "storage_bucket": "ather-bcff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096065134295:android:3d260adde17979dfee0a92",
+        "android_client_info": {
+          "package_name": "com.example.ather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096065134295-94as0jeda500dlhsl6v5gtlp49t9t92q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDld5YPf7GlUN5iQvP4xNnQCvP-zZpZfwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096065134295-94as0jeda500dlhsl6v5gtlp49t9t92q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

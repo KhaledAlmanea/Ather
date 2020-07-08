@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Ather</string>
+    <string name="email_hint_login">User Email</string>
+    <string name="password_hint_login">Password</string>
+    <string name="login_button_txt">Login</string>
+    <string name="remember_me_login">Remember Me</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="station_lbl_add_cont">Write station name</string>
+    <string name="station_name_et">station name</string>
+    <string name="supplier_name_lbl">Supplier Name:</string>
+    <string name="supplier_name_et">supplier name</string>
+    <string name="contract_number_lbl">Contract Number:</string>
+    <string name="contract_number_et">contract number</string>
+    <string name="validity_term_lbl">Validity Term:</string>
+    <string name="validity_term_in_writing_et">validity term in writing</string>
+    <string name="contract_duration_et">contract duration</string>
+    <string name="average_unit_cost_lbl">Average Unit Cost:</string>
+    <string name="average_unit_cost_et">average unit cost (Ex:CPP)</string>
+    <string name="value_lbl">Value:</string>
+    <string name="value_et">contract total estimated value</string>
+    <string name="discounts_lbl">Discounts:</string>
+    <string name="contract_duration_lbl">Contract Duration:</string>
+    <string name="discounts_et">discounts</string>
+    <string name="contract_status_lbl">Contract Status:</string>
+    <string name="cancel_contract_add_btn">Cancel</string>
+    <string name="save_contract_add_btn">Save</string>
+    <string name="select_date">Select Date</string>
+    <string name="station_name_rc">Station Name</string>
+    <string name="supplier_name_rc">Supplier Name</string>
+    <string name="commencement_date_rc">Commencement Date:</string>
+    <string name="com_date">com date</string>
+    <string name="expiry_date_rc">Expiry Date:</string>
+    <string name="expr_date">expr date</string>
+    <string name="avg_cost_rc">avg cost</string>
+</resources>

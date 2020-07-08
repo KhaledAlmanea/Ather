@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department_list">
+        <item>PMAS</item>
+        <item>IFE</item>
+        <item>F&amp;B</item>
+        <item>GOP</item>
+    </string-array>
+
+    <string-array name="status_list">
+        <item>Under Renewal Process</item>
+        <item>Active</item>
+        <item>Terminated</item>
+        <item>Expired</item>
+    </string-array>
+
+</resources>
